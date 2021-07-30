@@ -14,7 +14,7 @@ run `python detect.py --source 0` for stream detection use your own camera<br> <
 The results are saved in `yolov5/results/`<br> <br>
 
 ### If you want to change the detection region, go to `detect.py` line 96 to change the four points:
-hl1,wl1,hl2,2l2,hl3,wl3,hl4,wl4<br> <br>
+hl1, wl1, hl2, wl2, hl3, wl3, hl4, wl4<br> <br>
 
 or you can further load points for regional detection<br> <br>
 
